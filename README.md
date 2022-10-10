@@ -1,7 +1,6 @@
 ### Olá!! Eu sou Denner Esteves!
 
-- 🔭 Hoje não estou trabalhando, mas estou focado nos estudos voltados para Front-end 👍
-- 🌱 Estudando JavaScript ES6 e React.js 😉
+- 🌱 Estudando React.js 😉
 - 💬 CSS Grid e Flexbox! ✔
 - 📫 Contato: denner.esteves@gmail.com && https://www.linkedin.com/in/denner-esteves-2634b7125/ ✉
 
