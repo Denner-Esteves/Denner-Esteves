@@ -2,6 +2,8 @@
 
 - 🌱 Estudando React.js 😉
 - 💬 CSS Grid e Flexbox! ✔
+- 🌱 Next.js
+-  SASS/SCSS
 - 📫 Contato: denner.esteves@gmail.com && https://www.linkedin.com/in/denner-esteves-2634b7125/ ✉
 
 
